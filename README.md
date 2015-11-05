@@ -2,7 +2,7 @@
 
 ## Description
 
-details
+SRDF is the new Korean Open IE system. The system is designed to meet the characteristics of Korean and extract multiple relationships between argument(s) and relation(s) within a sentence by using reificaion technique(specifically, singleton property method).
 
 ## How to use
 
