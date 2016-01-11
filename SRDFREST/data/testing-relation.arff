@@ -1,7 +1,0 @@
-@RELATION relation
-@ATTRIBUTE lemma	string
-@ATTRIBUTE pos 	string
-%조사 + 접미사 = postposition
-@ATTRIBUTE postposition 	{yes,no}
-@ATTRIBUTE class 	{relation,other}
-@DATA
