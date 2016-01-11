@@ -1,0 +1,12 @@
+@RELATION subject
+@ATTRIBUTE lemma	string
+@ATTRIBUTE pos 	string
+@ATTRIBUTE sentencelength 	numeric
+@ATTRIBUTE startposition 	numeric
+@ATTRIBUTE endposition 	numeric
+@ATTRIBUTE postlemma 	string
+@ATTRIBUTE postpos 	string
+@ATTRIBUTE class 	{subject,object}
+@DATA
+'박근혜','NNP',44,0,8,'는','JX',subject
+'대한민국의대통령','NNP+JKG+NNG',44,13,37,'이','VCP',subject

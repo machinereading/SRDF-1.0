@@ -1,0 +1,15 @@
+@RELATION relation
+@ATTRIBUTE lemma	string
+@ATTRIBUTE pos 	string
+%조사 + 접미사 = postposition
+@ATTRIBUTE postposition 	{yes,no}
+@ATTRIBUTE class 	{relation,other}
+@DATA
+'오바마','NNP',no,other
+'는','JX',yes,other
+'미국','NNP',no,other
+'의','JKG',yes,other
+'대통령','NNG',no,other
+'이','VCP',no,relation
+'다','EF',no,other
+'.','SF',no,other
