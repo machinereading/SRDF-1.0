@@ -18,3 +18,9 @@ details
 If you use the current of PROJECT NAME, please cite the following papers.
 
 [SRDF: Korean Open Information Extraction using Singleton Property ](http://semanticweb.kaist.ac.kr/home/images/f/f5/SRDF_Korean_Open_Information_Extraction_using_Singleton_Property.pdf)
+
+## Contact
+`nam.sangha at gmail.com`
+
+## Acknowledgement
+This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
